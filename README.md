@@ -1,6 +1,12 @@
-### Hi there 👋
+### Hello there  👋
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
+
+My name is Anastasios-Tom I'm aspiring to become a DevOps Engineer. I am enthusiastic about cloud technologies, architectures, security, and server configurations. 
+
+Skills and Technologies frequently used:
+
+Terraform | Docker | SQL | GitLab | Jira | Confluence | AWS Security | Git | Client-Relationship Development | Identity & Access Management (IAM) | Linux | Azure | Cloud Incident Response | Elastic Stack (ELK) | Team Development | Agile | Scrum | Datadog | 
 
 Find out more about me & feel free to connect with me here:
 
