@@ -2,7 +2,7 @@
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
 
-My name is Anastasios-Tom I'm aspiring to become a DevOps Engineer. I am enthusiastic about cloud technologies, architectures, security, and server configurations. 
+My name is Anastasios-Tom, and I'm aspiring to become a DevOps Engineer. I am enthusiastic about cloud technologies, architectures, security, and server configurations. 
 
 Skills and Technologies frequently used:
 
@@ -14,7 +14,7 @@ Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Broadus%20Palmer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levelupwithbroadus/)](https://www.linkedin.com/in/levelupwithbroadus/)
 [![Medium Badge](https://img.shields.io/badge/Broadus%20Palmer-12100E?style=flat-square&logo=medium&logoColor=white&link=https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)](https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)
-[![Gmail Badge](https://img.shields.io/badge/-Broadus@Levelupintech.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Broadus@Levelupintech.com)](mailto:Broadus@Levelupintech.com)
+[![Gmail Badge](https://img.shields.io/badge/-kalantzisanastasios@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kalantzisanastasios@gmail.com)](mailto:kalantzisanastasios@gmail.com)
 
 ## ⚡ Technologies
 
